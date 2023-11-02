@@ -4,9 +4,9 @@
  
 https://jumard.top
 
-## Infrastructure
+## Infrastructure and Cloud Systems
 
-![infra](https://github.com/jumard-manager/jumardtop/assets/146323556/5c61bca8-41b8-4bbb-ae4b-7f1c95332b78)
+![infra](https://github.com/jumard-manager/jumardtop/assets/146323556/12f771ba-ddb2-4a36-a95a-ea3321251ff9)
 
 ## System Overview
 
